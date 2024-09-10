@@ -30,7 +30,8 @@ joaohenrique65/README.md#
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique65&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
+## hobby 
+![hinata](https://github.com/user-attachments/assets/3bee411b-9cc7-480d-ba7a-def1c15def55)
 <!---
 joaohenrique65/joaohenrique65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
