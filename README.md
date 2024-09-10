@@ -30,9 +30,6 @@ joaohenrique65/README.md#
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=joaohenrique65&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-## hobby 
-![Kakashi](https://github.com/user-attachments/assets/5834743d-0ab8-4abd-9b85-1a685eddb9bf)
-
 
 <!---
 joaohenrique65/joaohenrique65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
