@@ -23,7 +23,7 @@ joaohenrique65/README.md#
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40"  font-color="white"  />
 </p>
 
-##
+## Estatística
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenrique65&layout=compact&langs_count=7&theme=dracula"/>
@@ -31,8 +31,7 @@ joaohenrique65/README.md#
 </div>
 
 ## hobby 
-![hinata](https://github.com/user-attachments/assets/3bee411b-9cc7-480d-ba7a-def1c15def55)
-![shieldofhero](https://github.com/user-attachments/assets/da2c219b-44fe-4d9a-bd58-c99fd395a16a)![Kakashi](https://github.com/user-attachments/assets/5834743d-0ab8-4abd-9b85-1a685eddb9bf)
+![Kakashi](https://github.com/user-attachments/assets/5834743d-0ab8-4abd-9b85-1a685eddb9bf)
 
 
 <!---
